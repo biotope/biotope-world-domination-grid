@@ -1,6 +1,6 @@
 {
   "name": "biotope-world-domination-grid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A solid grid system for every usecase you can imagine",
   "main": "index.js",
   "scripts": {
