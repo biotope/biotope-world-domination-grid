@@ -9,7 +9,6 @@
   "author": "VI",
   "license": "ISC",
   "dependencies": {
-    "breakpoint-sass": "^2.7.1",
     "susy": "^3.0.5"
   },
   "homepage": "https://github.com/biotope/biotope-world-domination-grid"
