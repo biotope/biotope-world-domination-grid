@@ -1,15 +1,16 @@
 {
   "name": "biotope-world-domination-grid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A solid grid system for every usecase you can imagine",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "VI",
   "license": "ISC",
   "dependencies": {
     "breakpoint-sass": "^2.7.1",
     "susy": "^3.0.5"
-  }
+  },
+  "homepage": "https://github.com/biotope/biotope-world-domination-grid"
 }
